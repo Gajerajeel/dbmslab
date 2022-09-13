@@ -1,0 +1,22 @@
+create table student202 (no number(2),name varchar(50),school varchar(100),hobby varchar(10),std number (2),gender varchar (1));
+insert into student202
+values (1,'fenil','amrutba','singing',12,'m');
+insert into student202
+values (2,'jenish','silverouk','gaming',11,'m');
+insert into student202
+values (3,'sujal','pathak','walking',10,'m');
+insert into student202
+values (4,'rajan','j.g','reading',11,'m');
+insert into student202
+values (5,'mukesh','forwad','cyclimg',12,'m');
+insert into student202
+values (6,'ketan','h.k','talking',9,'m');
+insert into student202
+values (7,'priya','m.g','listning',12,'f');
+insert into student202
+values (8,'dhruvik','l.j','eating',10,'m');
+insert into student202
+values (9,'sujal','indus','driving',12,'m');
+insert into student20
+values (10,'niyat','r.k','dancing',9,'m');
+select*from student20;
